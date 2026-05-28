@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy
+mysql-connector-python
+paho-mqtt
+python-jose[cryptography]
+passlib[bcrypt]
+python-dotenv
+requests
+websockets
